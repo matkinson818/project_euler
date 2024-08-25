@@ -1,2 +1,2 @@
 # project_euler
-Solving mathematics with programming languages
+Solving mathematics with programming
